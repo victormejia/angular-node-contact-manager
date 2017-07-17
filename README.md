@@ -1,6 +1,6 @@
 # Angular + Node Contact Manager
 
-## Exercise files for Lynda.com course: Angular API Communication and Authentication
+## Exercise files for LinkedIn Learning/Lynda.com course: [Angular API Communication and Authentication](https://www.linkedin.com/learning/angular-api-communication-and-authentication)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.2.
 
